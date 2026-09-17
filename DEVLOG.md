@@ -6,3 +6,4 @@ Notas de desenvolvimento.
 - fix: deploy vercel pego no cache velho (17/09)
 - docs: nota de arquitetura cliente-servidor (17/09)
 - feat: cofres locais com IndexedDB (17/09)
+- fix: duplicata de nota quando o sync atrasa (17/09)
