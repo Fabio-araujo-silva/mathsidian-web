@@ -10,3 +10,4 @@ Notas de desenvolvimento.
 - feat: esqueleto do app (Vite + TS + router) (18/09)
 - style: espacamento do editor de notas (20/09)
 - feat: esqueleto do app (Vite + TS + router) (21/09)
+- chore: sobe deps e trava lockfile (21/09)
