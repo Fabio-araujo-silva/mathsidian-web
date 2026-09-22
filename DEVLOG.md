@@ -14,3 +14,4 @@ Notas de desenvolvimento.
 - perf: carrega so o cofre aberto (21/09)
 - feat: cofres locais com IndexedDB (22/09)
 - fix: LaTeX quebra com acento em titulos (22/09)
+- chore: CI com build e lint no push (22/09)
