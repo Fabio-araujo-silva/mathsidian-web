@@ -13,3 +13,4 @@ Notas de desenvolvimento.
 - chore: sobe deps e trava lockfile (21/09)
 - perf: carrega so o cofre aberto (21/09)
 - feat: cofres locais com IndexedDB (22/09)
+- fix: LaTeX quebra com acento em titulos (22/09)
