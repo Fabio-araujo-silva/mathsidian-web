@@ -9,3 +9,4 @@ Notas de desenvolvimento.
 - fix: duplicata de nota quando o sync atrasa (17/09)
 - feat: esqueleto do app (Vite + TS + router) (18/09)
 - style: espacamento do editor de notas (20/09)
+- feat: esqueleto do app (Vite + TS + router) (21/09)
