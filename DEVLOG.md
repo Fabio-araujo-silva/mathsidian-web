@@ -15,3 +15,4 @@ Notas de desenvolvimento.
 - feat: cofres locais com IndexedDB (22/09)
 - fix: LaTeX quebra com acento em titulos (22/09)
 - chore: CI com build e lint no push (22/09)
+- feat: login com magic link e sessao em cookie (22/09)
