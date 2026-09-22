@@ -12,3 +12,4 @@ Notas de desenvolvimento.
 - feat: esqueleto do app (Vite + TS + router) (21/09)
 - chore: sobe deps e trava lockfile (21/09)
 - perf: carrega so o cofre aberto (21/09)
+- feat: cofres locais com IndexedDB (22/09)
