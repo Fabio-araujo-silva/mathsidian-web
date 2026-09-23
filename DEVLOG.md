@@ -22,3 +22,4 @@ Notas de desenvolvimento.
 - fix: duplicata de nota quando o sync atrasa (23/09)
 - fix: mobile parte a tela com teclado aberto (23/09)
 - feat: esqueleto do app (Vite + TS + router) (23/09)
+- feat: cofres locais com IndexedDB (23/09)
