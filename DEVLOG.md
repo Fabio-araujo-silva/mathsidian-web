@@ -21,3 +21,4 @@ Notas de desenvolvimento.
 - feat: modo escuro segue o sistema (23/09)
 - fix: duplicata de nota quando o sync atrasa (23/09)
 - fix: mobile parte a tela com teclado aberto (23/09)
+- feat: esqueleto do app (Vite + TS + router) (23/09)
