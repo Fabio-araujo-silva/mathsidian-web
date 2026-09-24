@@ -18,3 +18,4 @@ Notas de desenvolvimento.
 - feat: login com magic link e sessao em cookie (22/09)
 - refactor: store de notas fora do componente (22/09)
 - fix: LaTeX quebra com acento em titulos (22/09)
+- feat: modo escuro segue o sistema (23/09)
