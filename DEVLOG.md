@@ -24,3 +24,4 @@ Notas de desenvolvimento.
 - feat: esqueleto do app (Vite + TS + router) (23/09)
 - feat: cofres locais com IndexedDB (23/09)
 - fix(sync): evita loop de pull com duas abas abertas (26/09)
+- test: casos de merge de cofre conflitante (26/09)
