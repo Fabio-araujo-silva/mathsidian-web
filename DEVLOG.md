@@ -27,3 +27,4 @@ Notas de desenvolvimento.
 - test: casos de merge de cofre conflitante (26/09)
 - fix: deploy vercel pego no cache velho (28/09)
 - docs: nota de arquitetura cliente-servidor (28/09)
+- perf: carrega so o cofre aberto (28/09)
