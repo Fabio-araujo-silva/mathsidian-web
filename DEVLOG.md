@@ -25,3 +25,4 @@ Notas de desenvolvimento.
 - feat: cofres locais com IndexedDB (23/09)
 - fix(sync): evita loop de pull com duas abas abertas (26/09)
 - test: casos de merge de cofre conflitante (26/09)
+- fix: deploy vercel pego no cache velho (28/09)
