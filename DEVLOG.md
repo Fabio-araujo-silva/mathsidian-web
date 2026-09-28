@@ -26,3 +26,4 @@ Notas de desenvolvimento.
 - fix(sync): evita loop de pull com duas abas abertas (26/09)
 - test: casos de merge de cofre conflitante (26/09)
 - fix: deploy vercel pego no cache velho (28/09)
+- docs: nota de arquitetura cliente-servidor (28/09)
