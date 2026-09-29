@@ -29,3 +29,4 @@ Notas de desenvolvimento.
 - docs: nota de arquitetura cliente-servidor (28/09)
 - perf: carrega so o cofre aberto (28/09)
 - feat: busca full-text nas notas do cofre (29/09)
+- feat: render de equacoes em tempo real (29/09)
