@@ -28,3 +28,4 @@ Notas de desenvolvimento.
 - fix: deploy vercel pego no cache velho (28/09)
 - docs: nota de arquitetura cliente-servidor (28/09)
 - perf: carrega so o cofre aberto (28/09)
+- feat: busca full-text nas notas do cofre (29/09)
