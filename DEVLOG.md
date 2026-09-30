@@ -33,3 +33,4 @@ Notas de desenvolvimento.
 - fix(sync): evita loop de pull com duas abas abertas (29/09)
 - chore: sobe deps e trava lockfile (29/09)
 - feat(web): paginas estaticas de marketing (30/09)
+- feat: compartilhar nota publica por slug (30/09)
