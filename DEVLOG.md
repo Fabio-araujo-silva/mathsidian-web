@@ -32,3 +32,4 @@ Notas de desenvolvimento.
 - feat: render de equacoes em tempo real (29/09)
 - fix(sync): evita loop de pull com duas abas abertas (29/09)
 - chore: sobe deps e trava lockfile (29/09)
+- feat(web): paginas estaticas de marketing (30/09)
