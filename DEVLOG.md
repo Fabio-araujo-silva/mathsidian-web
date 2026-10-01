@@ -37,3 +37,4 @@ Notas de desenvolvimento.
 - docs: nota de arquitetura cliente-servidor (01/10)
 - test: casos de merge de cofre conflitante (01/10)
 - feat: sincroniza cofre com a nuvem ao abrir (01/10)
+- fix(auth): sessao sobrevive ao refresh (01/10)
