@@ -36,3 +36,4 @@ Notas de desenvolvimento.
 - feat: compartilhar nota publica por slug (30/09)
 - docs: nota de arquitetura cliente-servidor (01/10)
 - test: casos de merge de cofre conflitante (01/10)
+- feat: sincroniza cofre com a nuvem ao abrir (01/10)
