@@ -38,3 +38,4 @@ Notas de desenvolvimento.
 - test: casos de merge de cofre conflitante (01/10)
 - feat: sincroniza cofre com a nuvem ao abrir (01/10)
 - fix(auth): sessao sobrevive ao refresh (01/10)
+- feat: autosave do cofre a cada 5s (01/10)
