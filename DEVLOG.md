@@ -34,3 +34,4 @@ Notas de desenvolvimento.
 - chore: sobe deps e trava lockfile (29/09)
 - feat(web): paginas estaticas de marketing (30/09)
 - feat: compartilhar nota publica por slug (30/09)
+- docs: nota de arquitetura cliente-servidor (01/10)
