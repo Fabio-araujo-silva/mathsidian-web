@@ -35,3 +35,4 @@ Notas de desenvolvimento.
 - feat(web): paginas estaticas de marketing (30/09)
 - feat: compartilhar nota publica por slug (30/09)
 - docs: nota de arquitetura cliente-servidor (01/10)
+- test: casos de merge de cofre conflitante (01/10)
