@@ -39,3 +39,4 @@ Notas de desenvolvimento.
 - feat: sincroniza cofre com a nuvem ao abrir (01/10)
 - fix(auth): sessao sobrevive ao refresh (01/10)
 - feat: autosave do cofre a cada 5s (01/10)
+- fix: duplicata de nota quando o sync atrasa (02/10)
