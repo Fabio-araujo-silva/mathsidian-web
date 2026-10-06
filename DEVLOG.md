@@ -40,3 +40,4 @@ Notas de desenvolvimento.
 - fix(auth): sessao sobrevive ao refresh (01/10)
 - feat: autosave do cofre a cada 5s (01/10)
 - fix: duplicata de nota quando o sync atrasa (02/10)
+- style: espacamento do editor de notas (06/10)
