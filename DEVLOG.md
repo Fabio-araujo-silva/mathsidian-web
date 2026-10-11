@@ -43,3 +43,4 @@ Notas de desenvolvimento.
 - style: espacamento do editor de notas (06/10)
 - refactor: store de notas fora do componente (08/10)
 - fix: deploy vercel pego no cache velho (08/10)
+- refactor: store de notas fora do componente (11/10)
