@@ -46,3 +46,4 @@ Notas de desenvolvimento.
 - refactor: store de notas fora do componente (11/10)
 - docs: nota de arquitetura cliente-servidor (12/10)
 - fix(sync): evita loop de pull com duas abas abertas (12/10)
+- style: espacamento do editor de notas (12/10)
