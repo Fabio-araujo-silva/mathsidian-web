@@ -44,3 +44,4 @@ Notas de desenvolvimento.
 - refactor: store de notas fora do componente (08/10)
 - fix: deploy vercel pego no cache velho (08/10)
 - refactor: store de notas fora do componente (11/10)
+- docs: nota de arquitetura cliente-servidor (12/10)
