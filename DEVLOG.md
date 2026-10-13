@@ -49,3 +49,4 @@ Notas de desenvolvimento.
 - style: espacamento do editor de notas (12/10)
 - fix: duplicata de nota quando o sync atrasa (13/10)
 - feat: login com magic link e sessao em cookie (13/10)
+- feat: busca full-text nas notas do cofre (13/10)
