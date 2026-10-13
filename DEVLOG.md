@@ -47,3 +47,4 @@ Notas de desenvolvimento.
 - docs: nota de arquitetura cliente-servidor (12/10)
 - fix(sync): evita loop de pull com duas abas abertas (12/10)
 - style: espacamento do editor de notas (12/10)
+- fix: duplicata de nota quando o sync atrasa (13/10)
