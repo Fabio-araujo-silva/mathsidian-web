@@ -53,3 +53,4 @@ Notas de desenvolvimento.
 - feat(web): paginas estaticas de marketing (13/10)
 - feat: busca full-text nas notas do cofre (14/10)
 - feat: atalho Ctrl+S salva a nota (14/10)
+- test: casos de merge de cofre conflitante (16/10)
