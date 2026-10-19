@@ -54,3 +54,4 @@ Notas de desenvolvimento.
 - feat: busca full-text nas notas do cofre (14/10)
 - feat: atalho Ctrl+S salva a nota (14/10)
 - test: casos de merge de cofre conflitante (16/10)
+- chore: sobe deps e trava lockfile (19/10)
