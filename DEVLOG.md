@@ -55,3 +55,4 @@ Notas de desenvolvimento.
 - feat: atalho Ctrl+S salva a nota (14/10)
 - test: casos de merge de cofre conflitante (16/10)
 - chore: sobe deps e trava lockfile (19/10)
+- feat: render de equacoes em tempo real (19/10)
