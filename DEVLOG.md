@@ -58,3 +58,4 @@ Notas de desenvolvimento.
 - feat: render de equacoes em tempo real (19/10)
 - feat(web): paginas estaticas de marketing (20/10)
 - chore: sobe deps e trava lockfile (20/10)
+- feat: modo escuro segue o sistema (20/10)
