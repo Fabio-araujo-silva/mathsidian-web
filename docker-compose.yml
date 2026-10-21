@@ -1,0 +1,37 @@
+# Sobe o Mathsidian web com HTTPS automático (Caddy). Troque mathsidian.exemplo.com pelo seu domínio
+# e defina INVITE_CODES no arquivo .env.
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATA_DIR: /data
+      TRUST_PROXY: "1"
+      HOME: /tmp # disco somente leitura: caches do TeX/dvisvgm vão pro /tmp
+    volumes:
+      - mathsidian-data:/data
+    # o LaTeX roda código dos usuários: sem acesso à rede além do proxy e com limites de recurso
+    mem_limit: 2g
+    cpus: 2
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    command: caddy reverse-proxy --from mathsidian.exemplo.com --to app:3000
+    volumes:
+      - caddy-data:/data
+    depends_on:
+      - app
+
+volumes:
+  mathsidian-data:
+  caddy-data:
