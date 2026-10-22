@@ -60,3 +60,4 @@ Notas de desenvolvimento.
 - chore: sobe deps e trava lockfile (20/10)
 - feat: modo escuro segue o sistema (20/10)
 - style: espacamento do editor de notas (22/10)
+- fix: mobile parte a tela com teclado aberto (22/10)
