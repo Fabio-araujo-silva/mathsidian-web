@@ -61,3 +61,4 @@ Notas de desenvolvimento.
 - feat: modo escuro segue o sistema (20/10)
 - style: espacamento do editor de notas (22/10)
 - fix: mobile parte a tela com teclado aberto (22/10)
+- fix(auth): sessao sobrevive ao refresh (23/10)
