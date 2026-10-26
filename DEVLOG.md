@@ -62,3 +62,4 @@ Notas de desenvolvimento.
 - style: espacamento do editor de notas (22/10)
 - fix: mobile parte a tela com teclado aberto (22/10)
 - fix(auth): sessao sobrevive ao refresh (23/10)
+- feat(web): paginas estaticas de marketing (26/10)
