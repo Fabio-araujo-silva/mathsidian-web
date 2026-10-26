@@ -65,3 +65,4 @@ Notas de desenvolvimento.
 - feat(web): paginas estaticas de marketing (26/10)
 - test: casos de merge de cofre conflitante (26/10)
 - feat: login com magic link e sessao em cookie (26/10)
+- feat: atalho Ctrl+S salva a nota (26/10)
