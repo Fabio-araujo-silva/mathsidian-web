@@ -64,3 +64,4 @@ Notas de desenvolvimento.
 - fix(auth): sessao sobrevive ao refresh (23/10)
 - feat(web): paginas estaticas de marketing (26/10)
 - test: casos de merge de cofre conflitante (26/10)
+- feat: login com magic link e sessao em cookie (26/10)
