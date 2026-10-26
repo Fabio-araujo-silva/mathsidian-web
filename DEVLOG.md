@@ -63,3 +63,4 @@ Notas de desenvolvimento.
 - fix: mobile parte a tela com teclado aberto (22/10)
 - fix(auth): sessao sobrevive ao refresh (23/10)
 - feat(web): paginas estaticas de marketing (26/10)
+- test: casos de merge de cofre conflitante (26/10)
