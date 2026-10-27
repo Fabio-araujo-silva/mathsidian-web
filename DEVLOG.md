@@ -66,3 +66,4 @@ Notas de desenvolvimento.
 - test: casos de merge de cofre conflitante (26/10)
 - feat: login com magic link e sessao em cookie (26/10)
 - feat: atalho Ctrl+S salva a nota (26/10)
+- fix: deploy vercel pego no cache velho (27/10)
