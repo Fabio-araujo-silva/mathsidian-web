@@ -67,3 +67,4 @@ Notas de desenvolvimento.
 - feat: login com magic link e sessao em cookie (26/10)
 - feat: atalho Ctrl+S salva a nota (26/10)
 - fix: deploy vercel pego no cache velho (27/10)
+- perf: carrega so o cofre aberto (27/10)
