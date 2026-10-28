@@ -68,3 +68,4 @@ Notas de desenvolvimento.
 - feat: atalho Ctrl+S salva a nota (26/10)
 - fix: deploy vercel pego no cache velho (27/10)
 - perf: carrega so o cofre aberto (27/10)
+- feat: esqueleto do app (Vite + TS + router) (28/10)
