@@ -69,3 +69,4 @@ Notas de desenvolvimento.
 - fix: deploy vercel pego no cache velho (27/10)
 - perf: carrega so o cofre aberto (27/10)
 - feat: esqueleto do app (Vite + TS + router) (28/10)
+- feat: modo escuro segue o sistema (30/10)
