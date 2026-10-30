@@ -70,3 +70,4 @@ Notas de desenvolvimento.
 - perf: carrega so o cofre aberto (27/10)
 - feat: esqueleto do app (Vite + TS + router) (28/10)
 - feat: modo escuro segue o sistema (30/10)
+- fix: LaTeX quebra com acento em titulos (30/10)
