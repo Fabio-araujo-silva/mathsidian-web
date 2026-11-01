@@ -71,3 +71,4 @@ Notas de desenvolvimento.
 - feat: esqueleto do app (Vite + TS + router) (28/10)
 - feat: modo escuro segue o sistema (30/10)
 - fix: LaTeX quebra com acento em titulos (30/10)
+- fix: deploy vercel pego no cache velho (31/10)
