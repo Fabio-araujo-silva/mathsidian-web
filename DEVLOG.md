@@ -73,3 +73,4 @@ Notas de desenvolvimento.
 - fix: LaTeX quebra com acento em titulos (30/10)
 - fix: deploy vercel pego no cache velho (31/10)
 - chore: sobe deps e trava lockfile (02/11)
+- feat: autosave do cofre a cada 5s (02/11)
