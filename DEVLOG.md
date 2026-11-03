@@ -75,3 +75,4 @@ Notas de desenvolvimento.
 - chore: sobe deps e trava lockfile (02/11)
 - feat: autosave do cofre a cada 5s (02/11)
 - fix: LaTeX quebra com acento em titulos (02/11)
+- feat: esqueleto do app (Vite + TS + router) (03/11)
