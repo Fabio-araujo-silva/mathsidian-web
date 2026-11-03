@@ -76,3 +76,4 @@ Notas de desenvolvimento.
 - feat: autosave do cofre a cada 5s (02/11)
 - fix: LaTeX quebra com acento em titulos (02/11)
 - feat: esqueleto do app (Vite + TS + router) (03/11)
+- fix(sync): evita loop de pull com duas abas abertas (03/11)
