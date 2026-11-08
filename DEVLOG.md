@@ -79,3 +79,4 @@ Notas de desenvolvimento.
 - fix(sync): evita loop de pull com duas abas abertas (03/11)
 - feat: compartilhar nota publica por slug (05/11)
 - chore: CI com build e lint no push (08/11)
+- fix: mobile parte a tela com teclado aberto (08/11)
