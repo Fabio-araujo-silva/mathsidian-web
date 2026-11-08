@@ -78,3 +78,4 @@ Notas de desenvolvimento.
 - feat: esqueleto do app (Vite + TS + router) (03/11)
 - fix(sync): evita loop de pull com duas abas abertas (03/11)
 - feat: compartilhar nota publica por slug (05/11)
+- chore: CI com build e lint no push (08/11)
