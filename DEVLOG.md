@@ -82,3 +82,4 @@ Notas de desenvolvimento.
 - fix: mobile parte a tela com teclado aberto (08/11)
 - feat(web): paginas estaticas de marketing (09/11)
 - chore: CI com build e lint no push (09/11)
+- feat: login com magic link e sessao em cookie (09/11)
