@@ -80,3 +80,4 @@ Notas de desenvolvimento.
 - feat: compartilhar nota publica por slug (05/11)
 - chore: CI com build e lint no push (08/11)
 - fix: mobile parte a tela com teclado aberto (08/11)
+- feat(web): paginas estaticas de marketing (09/11)
