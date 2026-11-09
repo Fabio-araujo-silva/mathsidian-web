@@ -81,3 +81,4 @@ Notas de desenvolvimento.
 - chore: CI com build e lint no push (08/11)
 - fix: mobile parte a tela com teclado aberto (08/11)
 - feat(web): paginas estaticas de marketing (09/11)
+- chore: CI com build e lint no push (09/11)
