@@ -84,3 +84,4 @@ Notas de desenvolvimento.
 - chore: CI com build e lint no push (09/11)
 - feat: login com magic link e sessao em cookie (09/11)
 - feat: autosave do cofre a cada 5s (10/11)
+- feat: modo escuro segue o sistema (10/11)
