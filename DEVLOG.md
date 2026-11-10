@@ -83,3 +83,4 @@ Notas de desenvolvimento.
 - feat(web): paginas estaticas de marketing (09/11)
 - chore: CI com build e lint no push (09/11)
 - feat: login com magic link e sessao em cookie (09/11)
+- feat: autosave do cofre a cada 5s (10/11)
