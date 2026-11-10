@@ -86,3 +86,4 @@ Notas de desenvolvimento.
 - feat: autosave do cofre a cada 5s (10/11)
 - feat: modo escuro segue o sistema (10/11)
 - fix: LaTeX quebra com acento em titulos (10/11)
+- fix: deploy vercel pego no cache velho (10/11)
