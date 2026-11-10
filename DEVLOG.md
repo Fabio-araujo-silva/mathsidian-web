@@ -85,3 +85,4 @@ Notas de desenvolvimento.
 - feat: login com magic link e sessao em cookie (09/11)
 - feat: autosave do cofre a cada 5s (10/11)
 - feat: modo escuro segue o sistema (10/11)
+- fix: LaTeX quebra com acento em titulos (10/11)
