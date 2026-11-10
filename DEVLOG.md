@@ -87,3 +87,4 @@ Notas de desenvolvimento.
 - feat: modo escuro segue o sistema (10/11)
 - fix: LaTeX quebra com acento em titulos (10/11)
 - fix: deploy vercel pego no cache velho (10/11)
+- chore: sobe deps e trava lockfile (10/11)
