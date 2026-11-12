@@ -90,3 +90,4 @@ Notas de desenvolvimento.
 - chore: sobe deps e trava lockfile (10/11)
 - feat: login com magic link e sessao em cookie (11/11)
 - test: casos de merge de cofre conflitante (12/11)
+- feat: modo escuro segue o sistema (12/11)
