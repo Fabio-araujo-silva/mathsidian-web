@@ -88,3 +88,4 @@ Notas de desenvolvimento.
 - fix: LaTeX quebra com acento em titulos (10/11)
 - fix: deploy vercel pego no cache velho (10/11)
 - chore: sobe deps e trava lockfile (10/11)
+- feat: login com magic link e sessao em cookie (11/11)
