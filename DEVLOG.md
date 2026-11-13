@@ -89,3 +89,4 @@ Notas de desenvolvimento.
 - fix: deploy vercel pego no cache velho (10/11)
 - chore: sobe deps e trava lockfile (10/11)
 - feat: login com magic link e sessao em cookie (11/11)
+- test: casos de merge de cofre conflitante (12/11)
