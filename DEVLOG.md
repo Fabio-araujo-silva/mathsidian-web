@@ -94,3 +94,4 @@ Notas de desenvolvimento.
 - test: casos de merge de cofre conflitante (14/11)
 - chore: CI com build e lint no push (15/11)
 - perf: carrega so o cofre aberto (15/11)
+- fix: LaTeX quebra com acento em titulos (15/11)
