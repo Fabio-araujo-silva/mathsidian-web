@@ -93,3 +93,4 @@ Notas de desenvolvimento.
 - feat: modo escuro segue o sistema (12/11)
 - test: casos de merge de cofre conflitante (14/11)
 - chore: CI com build e lint no push (15/11)
+- perf: carrega so o cofre aberto (15/11)
